@@ -1,0 +1,19 @@
+{
+  "name": "studiapodyplomowe",
+  "version": "1.0.0",
+  "description": "przykladowe pliki",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelm1974/podyplomowe2023Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelm1974/podyplomowe2023Node/issues"
+  },
+  "homepage": "https://github.com/angelm1974/podyplomowe2023Node#readme"
+}
